@@ -1,0 +1,17 @@
+nav{
+   
+}
+.mybdy{
+	background-image: url('../isewa-travel-homepage-slider.jpg');
+   height: 500px;
+}
+.addme
+{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 500;
+  box-shadow: 0 0 8px 0 #cfc9c9;
+  background-color: red;
+  
+}

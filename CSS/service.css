@@ -1,0 +1,21 @@
+.myinfomation{
+   /* background-color: #00457c;*/
+   background-image: url('../ser.jpg');
+   background-attachment: fixed;
+   overflow: hidden;
+   color: white;
+     }
+
+section{
+  overflow: hidden;
+}
+  @media only screen and (max-width: 600px) {
+    .myinfomation{
+      height: auto;
+      overflow: hidden;
+    }
+  }
+.myservicehr{
+  border: 2px solid tomato;
+  width: 300px;
+}
